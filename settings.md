@@ -1,3 +1,3 @@
-Darkmode
+Lightmode
 
 Throttled
